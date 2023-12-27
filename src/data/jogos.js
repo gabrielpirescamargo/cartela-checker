@@ -88,53 +88,53 @@ const jogos = [
       },
     ],
   },
-  {
-    nome: 'Vo carlos',
-    cartelas: [
-      {
-        id: '1',
-        numerosSelecionados: [3, 4, 18, 23, 35, 47],
-        nome: 'Gabriel',
-        maxNumber: 60,
-        qtdGanhar: 6,
-      },
-      {
-        id: '2',
-        numerosSelecionados: [1, 11, 47, 50, 55, 59],
-        nome: 'Vo carlos',
-        maxNumber: 60,
-        qtdGanhar: 6,
-      },
-      {
-        id: '3',
-        numerosSelecionados: [1, 9, 17, 29, 32, 42],
-        nome: 'Carla',
-        maxNumber: 60,
-        qtdGanhar: 6,
-      },
-      {
-        id: '4',
-        numerosSelecionados: [4, 7, 21, 34, 37, 43],
-        nome: 'Tuca',
-        maxNumber: 60,
-        qtdGanhar: 6,
-      },
-      {
-        id: '4',
-        numerosSelecionados: [4, 11, 22, 16, 31, 55],
-        nome: 'Gabi',
-        maxNumber: 60,
-        qtdGanhar: 6,
-      },
-      {
-        id: '4',
-        numerosSelecionados: [2, 5, 9, 23, 34, 45],
-        nome: 'Vo cristina',
-        maxNumber: 60,
-        qtdGanhar: 6,
-      },
-    ],
-  },
+  // {
+  //   nome: 'Vo carlos',
+  //   cartelas: [
+  //     {
+  //       id: '1',
+  //       numerosSelecionados: [3, 4, 18, 23, 35, 47],
+  //       nome: 'Gabriel',
+  //       maxNumber: 60,
+  //       qtdGanhar: 6,
+  //     },
+  //     {
+  //       id: '2',
+  //       numerosSelecionados: [1, 11, 47, 50, 55, 59],
+  //       nome: 'Vo carlos',
+  //       maxNumber: 60,
+  //       qtdGanhar: 6,
+  //     },
+  //     {
+  //       id: '3',
+  //       numerosSelecionados: [1, 9, 17, 29, 32, 42],
+  //       nome: 'Carla',
+  //       maxNumber: 60,
+  //       qtdGanhar: 6,
+  //     },
+  //     {
+  //       id: '4',
+  //       numerosSelecionados: [4, 7, 21, 34, 37, 43],
+  //       nome: 'Tuca',
+  //       maxNumber: 60,
+  //       qtdGanhar: 6,
+  //     },
+  //     {
+  //       id: '4',
+  //       numerosSelecionados: [4, 11, 22, 16, 31, 55],
+  //       nome: 'Gabi',
+  //       maxNumber: 60,
+  //       qtdGanhar: 6,
+  //     },
+  //     {
+  //       id: '4',
+  //       numerosSelecionados: [2, 5, 9, 23, 34, 45],
+  //       nome: 'Vo cristina',
+  //       maxNumber: 60,
+  //       qtdGanhar: 6,
+  //     },
+  //   ],
+  // },
 ];
 
 export default jogos;
